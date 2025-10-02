@@ -16,16 +16,6 @@ Solutions are organized by difficulty:
 
 ---
 
-## ✅ Progress Tracker
-- Total Problems Solved: **X**  
-- Easy: **X**  
-- Medium: **X**  
-- Hard: **X**  
-
-*(Update these numbers as you go)*
-
----
-
 ## 🎯 Goals
 - Solve at least one problem daily  
 - Cover all major topics: Arrays, Strings, Linked Lists, Trees, Graphs, DP, etc.  
